@@ -1,3 +1,10 @@
+# Gb's ST UwU
+
+ST is a simple terminal made by [Suckless](suckless.org). This is my fork of it.
+
+### Verbatim, original README
+
+```
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
@@ -32,3 +39,4 @@ Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
+```
